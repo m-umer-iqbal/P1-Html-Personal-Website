@@ -14,6 +14,7 @@ A clean and simple personal website built entirely with HTML, featuring multiple
 <img width="1919" height="491" alt="image" src="https://github.com/user-attachments/assets/52f41e77-7c6c-4202-95cc-18c39265db22" />
 <img width="1919" height="734" alt="image" src="https://github.com/user-attachments/assets/a69005bb-dd6a-4ef3-80ae-982603047cdd" />
 <img width="1919" height="615" alt="image" src="https://github.com/user-attachments/assets/d1e05bea-a156-4397-9715-00e0dea13599" />
+<img width="1919" height="808" alt="image" src="https://github.com/user-attachments/assets/210d6492-942b-4f25-a155-cee13a9243e6" />
 
 ## 🛠️ Technology Stack
 
